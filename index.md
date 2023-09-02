@@ -17,7 +17,7 @@ Syntax highlighted code block
 
 - Bulleted
 - List
--Great instructors 
+- Great instructors 
 1. Numbered
 2. List
 
