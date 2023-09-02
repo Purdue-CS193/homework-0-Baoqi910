@@ -15,8 +15,9 @@ Syntax highlighted code block
 ## Header two
 ### Header three
 
-- Bulleted
-- List
+- Nice classmates
+- useful tools and tips
+- the lessons are interesting
 - Great instructors 
 1. Numbered
 2. List
